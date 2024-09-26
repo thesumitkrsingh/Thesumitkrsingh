@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning **Java Fullstack Devlopment**
 
 - 💬 Ask me about **Devlopment**
+- contact me **textsumitsingh@gmail.com**
 
 
 <p align="left">
 </p>
 
-<p>[![An image of @thesumitkrsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thesumitkrsingh)](https://holopin.io/@thesumitkrsingh)</p>
+
 

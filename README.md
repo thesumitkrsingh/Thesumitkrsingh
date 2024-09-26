@@ -9,3 +9,5 @@
 <p align="left">
 </p>
 
+[![An image of @thesumitkrsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thesumitkrsingh)](https://holopin.io/@thesumitkrsingh)
+

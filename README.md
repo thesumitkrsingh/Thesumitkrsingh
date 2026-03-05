@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sumit Singh 👋
 
 Java Full Stack Developer from Chandigarh, India. I build REST APIs, full stack web apps, and AI-integrated systems using Spring Boot, React, and Spring AI.
 
